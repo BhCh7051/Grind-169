@@ -1182,4 +1182,11 @@ var DATA_SOURCE = [
         time: "40 mins",
         topic: "Heap",
     },
+    {
+        title: "Kth Ancestor of a Tree Node",
+        difficulty: "Hard",
+        topic: "Binary Lifting",
+        url: "https://leetcode.com/problems/kth-ancestor-of-a-tree-node/",
+        time: "45 mins",
+    }
 ];
